@@ -55,7 +55,7 @@
 > 不要只读一次， 读很多很多遍，问问题的本领并不能一蹴而就，除非你已经拥有它
 
 * [提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions)
-* [如何成为一名黑客](http://www.kerneltravel.net/jiqiao/hacker.html）
+* [如何成为一名黑客](http://www.kerneltravel.net/jiqiao/hacker.html)
 (标题虽然不相关，但里面讲的是基本的素质)
 
 ### 4、 共同创造，集思广益             难度***
@@ -75,7 +75,7 @@
 
 * [介绍自己索引]()
 * [技术文章](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%A5%BC%2B%2B/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95.md)
-* [期末总结] (https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93%E7%B4%A2%E5%BC%95.md)
+* [期末总结](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93%E7%B4%A2%E5%BC%95.md)
 ## 关于我们
 （在这里贴上你们的名字或者个人博客的链接）
 
