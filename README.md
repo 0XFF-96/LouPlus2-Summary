@@ -18,6 +18,12 @@
 
 # intrudoction
 
+## 浏览文章 (索引)
+
+* [介绍自己索引](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1/%E4%BB%8B%E7%BB%8D%E8%87%AA%E5%B7%B1%EF%BC%9A%E9%A6%96%E9%A1%B5%E7%B4%A2%E5%BC%95.txt)
+* [每周总结（放在  楼+  文件夹中）](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%A5%BC%2B%2B/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95.md)
+* [期末总结](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93%E7%B4%A2%E5%BC%95.md)
+
 ## 仓库目录结构
 
 * 1、介绍自己  :  说出你的故事,以及为什么报名楼+
@@ -76,11 +82,7 @@ Ps: 这是一个练习markdown写作 和 Github提交流程的机会哦  
 又或者  给大家一些应用场景，推荐一些优秀关于这方面的书籍
 
 
-## 浏览文章 (索引)
 
-* [介绍自己索引]()
-* [技术文章](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%A5%BC%2B%2B/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95.md)
-* [期末总结](https://github.com/jimtrump/LouPlus2-Summary/blob/master/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93/%E6%9C%9F%E6%9C%AB%E6%80%BB%E7%BB%93%E7%B4%A2%E5%BC%95.md)
 ## 关于我们
 （在这里贴上你们的名字或者个人博客的链接）
 
