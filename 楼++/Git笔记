@@ -1,0 +1,35 @@
+## Git本地推送远程主库常用命令
+
+- git config --global user.name "xxxx"
+- git config --global user.email "xxxx@xx.xx"
+
+1. git clone https://github.com/xx/xx.git 克隆库到本地
+
+2. git remote add upstream https:github.com/xxxx(主库地址)/xxx主库名 添加远程主库
+- 2.1 git remote set-url \<origin\> \<URL\> 修改当前仓库关联 (跟踪) 的远端仓库地址,origin为主机名
+- 2.2 git remote rm \<origin\> 删除本地仓库与远端的关联,即删除与主机origin的关联 
+
+3. git diff <分支1> <分支2>  查看两个分支的代码差异
+
+4. git fetch upstream  (将本地库所关联的远程库的commit id 更新到最新，而本地库并没有变化)
+
+- 4.3  git log --oneline
+- 4.4  git log --oneline upstream/master
+- 4.5  git status
+- 4.6  git add .
+- 4.6.1  git add -A
+- 4.7  git commit -m  "  "
+
+5. git pull --rebase upstream master     (进行远程库和本地库版本和代码同步)
+
+这里可能会产生冲突，
+
+6. git pull --rebase upstream master   (代码冲突，修改冲突后进行的代码合并)
+
+这里可能会产生冲突，
+
+------
+
+7.   git rebase --countinue   (继续进行代码合并)
+
+8.  git push (-f) origin master   推送,-f表示强制推送
